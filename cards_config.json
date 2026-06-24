@@ -1,7 +1,8 @@
 {
-  "atlases": [],
   "card_cols": 8,
   "card_rows": 4,
+  "ads_cols": 4,
+  "ads_rows": 2,
   "banner_cols": 4,
   "banner_rows": 4,
   "card_filler": "",
@@ -24,28 +25,6 @@
     "Elixir",
     "Yukι-Nαgαto"
   ],
-  "banner_file_order": [
-    "El_Creador.png",
-    "Co-Fundadora.png",
-    "VIP.png",
-    "Partner.png",
-    "Entity.png",
-    "Owner.png",
-    "Seguridad.png",
-    "VipManager.png",
-    "VipManager.png",
-    "AdminManager.png",
-    "El_Creador.png",
-    "Co-Fundadora.png",
-    "",
-    "",
-    "",
-    ""
-  ],
-  "card_atlases": [
-    {
-      "file": "card_atlas_2.png",
-      "cells": 7
-    }
-  ]
+  "banner_file_order": [],
+  "card_atlases": []
 }
