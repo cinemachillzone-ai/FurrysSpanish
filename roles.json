@@ -34,7 +34,7 @@
     "rank": "JefeDeSeguridad",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 41,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -44,7 +44,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 43,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -54,7 +54,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 44,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -64,7 +64,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 45,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -74,7 +74,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 46,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -95,7 +95,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 49,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -105,7 +105,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 50,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -115,7 +115,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 51,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -125,7 +125,7 @@
     "rank": "Mod",
     "group": "",
     "phrase": "",
-    "banner": 7,
+    "banner": 3,
     "card": 52,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -258,7 +258,8 @@
     "banner": 5,
     "card": 15,
     "added": "2026-06-24",
-    "expires": "2026-07-24"
+    "expires": "2026-07-24",
+    "photo": "C:\\Users\\Carmesi\\Downloads\\VRteaser_1.png"
   },
   {
     "id": "Zoraft",
@@ -295,7 +296,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 19,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -305,7 +306,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 20,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -315,7 +316,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 21,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -325,7 +326,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 22,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -335,7 +336,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 23,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -345,7 +346,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 24,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -355,7 +356,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 25,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -365,7 +366,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 26,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -375,7 +376,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 27,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -385,7 +386,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 28,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -395,7 +396,7 @@
     "rank": "Group",
     "group": "ELIXIR",
     "phrase": "",
-    "banner": 10,
+    "banner": 6,
     "card": 29,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -405,7 +406,7 @@
     "rank": "Friends",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 0,
     "card": 53,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -415,7 +416,7 @@
     "rank": "VipManager",
     "group": "",
     "phrase": "",
-    "banner": 9,
+    "banner": 7,
     "card": 30,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -425,7 +426,7 @@
     "rank": "VipManager",
     "group": "",
     "phrase": "",
-    "banner": 11,
+    "banner": 7,
     "card": 31,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -435,7 +436,7 @@
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 8,
     "card": 32,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -445,7 +446,7 @@
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 8,
     "card": 33,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -455,7 +456,7 @@
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 8,
     "card": 34,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -465,7 +466,7 @@
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 8,
     "card": 35,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -475,7 +476,7 @@
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 8,
     "card": 36,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -485,7 +486,7 @@
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 8,
     "card": 37,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -495,7 +496,7 @@
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 8,
     "card": 38,
     "added": "2026-06-24",
     "expires": "2026-07-24"
@@ -505,7 +506,7 @@
     "rank": "VIPFurrys",
     "group": "",
     "phrase": "",
-    "banner": 3,
+    "banner": 8,
     "card": 39,
     "added": "2026-06-24",
     "expires": "2026-07-24"

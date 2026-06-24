@@ -25,6 +25,16 @@
     "Elixir",
     "Yukι-Nαgαto"
   ],
-  "banner_file_order": [],
+  "banner_file_order": [
+    "El_Creador.png",
+    "Co-Fundadora.png",
+    "Seguridad.png",
+    "Partner.png",
+    "Entity.png",
+    "Elixir.png",
+    "VipManager.png",
+    "VIP.png",
+    "AdminManager.png"
+  ],
   "card_atlases": []
 }
