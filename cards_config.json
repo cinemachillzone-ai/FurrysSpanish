@@ -31,11 +31,11 @@
     "Seguridad.png",
     "Partner.png",
     "Entity.png",
-    "Elixir.png",
+    "",
     "VipManager.png",
     "VIP.png",
     "AdminManager.png",
-    ""
+    "Elixir.png"
   ],
   "card_atlases": []
 }
