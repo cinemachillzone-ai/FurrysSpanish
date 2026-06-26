@@ -34,7 +34,8 @@
     "Elixir.png",
     "VipManager.png",
     "VIP.png",
-    "AdminManager.png"
+    "AdminManager.png",
+    ""
   ],
   "card_atlases": []
 }
